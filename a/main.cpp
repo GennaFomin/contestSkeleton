@@ -1,6 +1,11 @@
 #include <iostream>
 
+void solution()
+{
+
+}
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    solution();
     return 0;
 }
